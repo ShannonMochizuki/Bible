@@ -12,3 +12,11 @@ Upload every file in this folder to the **root** of the `Bible` repository. GitH
 - Joshua 2–4 remain reference-only until their NKJV text is supplied.
 
 Progress remains local to the browser/device. V7 migrates saved progress from V6/V5 storage automatically.
+
+
+## V8 update
+- Added the user-supplied NKJV text for Joshua 2:1–24.
+- Added discovery-based study stages for all three Joshua 2 encounters.
+- Added Joshua 2 observations to Nature of God and Promise tracking.
+- Explicitly distinguishes the spies' human oath to Rahab from promises made by God.
+- Bumped offline cache to joshua-v8.
