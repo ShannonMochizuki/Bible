@@ -1,7 +1,9 @@
-# Journey Through Joshua — GitHub Pages upload
+# Journey Through Joshua — Upload-ready V3
 
-Upload every file in this folder to the root of the `Bible` repository. Replace matching files.
+GitHub Pages target: `https://shannonmochizuki.github.io/Bible/`
 
-GitHub Pages should remain configured as `main` + `/(root)`.
+Upload all files in this folder to the **root** of the `Bible` repository and replace matching files.
 
-This V2 build includes safer saved-data migration and improved startup diagnostics. It is designed for `https://shannonmochizuki.github.io/Bible/`.
+Pages settings: **Deploy from a branch → main → /(root)**.
+
+V3 fixes the mobile-browser startup error `Identifier 'top' has already been declared` by removing the conflicting browser-global function name. The inline application script has also been syntax-checked before packaging.
