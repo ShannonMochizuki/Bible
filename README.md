@@ -1,17 +1,14 @@
-# Journey Through Joshua — Upload-ready V6
+# Journey Through Joshua — V7
 
-GitHub Pages target: `https://shannonmochizuki.github.io/Bible/`
+Upload every file in this folder to the **root** of the `Bible` repository. GitHub Pages should remain set to **main → / (root)**.
 
-Upload all files in this folder to the **root** of the `Bible` repository and replace matching files.
+## V7 study redesign
+- Joshua 1 now follows **Read → Investigate → Understand → Discover God → Trace Promises → Connect → Remember**.
+- Recall questions are optional reinforcement and no longer block encounter completion.
+- New **God** navigation area with **Nature of God** and **Promises** tabs.
+- Promise cards track: what was promised, who it was made to, duration stated by the text, context, status, and Scripture reference.
+- Nature-of-God observations stay tied to Scripture evidence.
+- Joshua 1 NKJV text remains the user-supplied text already embedded in the previous build.
+- Joshua 2–4 remain reference-only until their NKJV text is supplied.
 
-Pages settings: **Deploy from a branch → main → /(root)**.
-
-V6 fixes the mobile-browser startup error `Identifier 'top' has already been declared` by removing the conflicting browser-global function name. The inline application script has also been syntax-checked before packaging.
-
-
-## V6 Scripture update
-Joshua 1:1–18 NKJV is embedded from text supplied by the user. Joshua 1 study encounters display the relevant verses directly, and “Show me in Scripture” highlights the cited evidence. Joshua 2–4 remain reference-only until their text is supplied.
-
-
-## V6 People & Lineage
-Adds a permanent **People** area with a Scripture-supported family tree, a separate non-genealogical relationships section, and a growing People Index. The first revealed lineage is **Nun → Joshua**, based on Joshua 1:1. Moses → Joshua is shown separately as an assistant/leadership relationship, not as family lineage.
+Progress remains local to the browser/device. V7 migrates saved progress from V6/V5 storage automatically.
